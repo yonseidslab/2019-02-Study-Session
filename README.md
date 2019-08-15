@@ -24,3 +24,6 @@
 ## Session6 (8/8)
 - Advanced Ensemble Model
 - xgboost, lightgbm
+
+## Session7 (8/13)
+- tensorflow, scikit-surprise
