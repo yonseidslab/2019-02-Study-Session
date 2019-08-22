@@ -27,3 +27,6 @@
 
 ## Session7 (8/13)
 - tensorflow, scikit-surprise
+
+## Session8 (8/22)
+- requests, selenium,simplejson
