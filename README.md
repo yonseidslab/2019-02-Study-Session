@@ -26,7 +26,12 @@
 - xgboost, lightgbm
 
 ## Session7 (8/13)
+- Recommendation System
 - tensorflow, scikit-surprise
 
 ## Session8 (8/22)
+- Web Crawling
 - requests, selenium,simplejson
+
+## Session9 (8/27)
+- Google Cloud Platform
