@@ -52,3 +52,6 @@
 ## 10/30. Session11, 특강
 - LINE. IT 회사에서의 신용평가
 - support vector machine
+
+## 11/13. Session12
+- Topological Data Analysis
