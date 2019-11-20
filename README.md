@@ -57,5 +57,5 @@
 - Topological Data Analysis
 
 ## 11/20. Session13
-- Neural Neetwork
+- Neural Neetwork, CNN
 - Tensorflow
