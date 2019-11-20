@@ -31,7 +31,7 @@
 
 ## 8/22. Session8
 - Web Crawling
-- requests, selenium,simplejson
+- requests, selenium, simplejson
 
 ## 8/27. Session9
 - Google Cloud Platform
@@ -55,3 +55,7 @@
 
 ## 11/13. Session12
 - Topological Data Analysis
+
+## 11/20. Session13
+- Neural Neetwork
+- Tensorflow
