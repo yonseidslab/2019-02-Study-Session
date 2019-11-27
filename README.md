@@ -59,3 +59,7 @@
 ## 11/20. Session13
 - Neural Neetwork, CNN
 - Tensorflow
+
+## 11/27. Session14
+- CNN
+- Tensorflow
